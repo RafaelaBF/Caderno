@@ -6,6 +6,7 @@ Aqui faço anotações de aprendizados que tive em cursos e livros separados em 
 
 ## Tópicos
 
+- 💻 [Conceitos de Informática][6]
 - 🛡 [Segurança da Informação][1] 
 - 📱 [Teste para android][2]
 - 🐙 [Git e GitHub][3]
@@ -21,3 +22,4 @@ Aqui faço anotações de aprendizados que tive em cursos e livros separados em 
 [3]: https://github.com/RafaelaBF/Caderno/tree/main/Git%20e%20GitHub
 [4]: https://github.com/RafaelaBF/Caderno/tree/main/Front-End
 [5]: https://github.com/RafaelaBF/Caderno/tree/main/Gestao%20de%20projetos
+[6]: https://github.com/RafaelaBF/Caderno/tree/main/Conceitos%20de%20Inform%C3%A1tica
