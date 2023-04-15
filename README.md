@@ -14,6 +14,7 @@ Aqui faço anotações de aprendizados que tive em cursos e livros separados em 
 - ⚙️ [Gestão de projetos][5]
 - 🐧 [Linux][8]
 - 🐘 [PHP][7]
+- 🤖 [ChatGPT][9]
 
 ##
 
@@ -27,3 +28,4 @@ Aqui faço anotações de aprendizados que tive em cursos e livros separados em 
 [6]: https://github.com/RafaelaBF/Caderno/tree/main/Conceitos%20de%20Inform%C3%A1tica
 [7]: https://github.com/RafaelaBF/Caderno/tree/main/PHP
 [8]: https://github.com/RafaelaBF/Caderno/tree/main/Linux
+[9]: https://github.com/RafaelaBF/Caderno/tree/main/ChatGPT
