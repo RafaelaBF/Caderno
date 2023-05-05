@@ -15,6 +15,7 @@ Aqui faço anotações de aprendizados que tive em cursos e livros separados em 
 - 🐧 [Linux][8]
 - 🐘 [PHP][7]
 - 🤖 [ChatGPT][9]
+- 🅰️ [Angular + Express][10]🚂
 
 ##
 
@@ -29,3 +30,4 @@ Aqui faço anotações de aprendizados que tive em cursos e livros separados em 
 [7]: https://github.com/RafaelaBF/Caderno/tree/main/PHP
 [8]: https://github.com/RafaelaBF/Caderno/tree/main/Linux
 [9]: https://github.com/RafaelaBF/Caderno/tree/main/ChatGPT
+[10]: https://github.com/RafaelaBF/Caderno/tree/main/Angular%2BExpress
