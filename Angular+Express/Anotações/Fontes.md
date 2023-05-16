@@ -1,6 +1,7 @@
 # Fontes dos Estudos 📚🔍
 
 - [Web Application Development (Angular/Express/MongoDB)][1]
+- [Como criar uma API completa com NodeJS e Express | Backend - Projeto Full Stack][6]
 - [ChatGPT][2]
 - [Angular][3]
 - [Express][4]
@@ -11,3 +12,4 @@
 [3]: https://angular.io/
 [4]: https://expressjs.com/pt-br/
 [5]: https://www.mongodb.com/
+[6]: https://www.youtube.com/watch?v=Cdu0WJhI-d8
