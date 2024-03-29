@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="rafae"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-07-08 07:14:17 "/>
+        <attribute name="created" value="cmFmYWU7REVTS1RPUC1WU1FETFBLOzIwMjEtMDctMDg7IjA2OjI4OjUxICI7Mjg0MA=="/>
+        <attribute name="edited" value="cmFmYWU7REVTS1RPUC1WU1FETFBLOzIwMjEtMDctMDg7IjA3OjE0OjE3ICI7MTsyOTQ2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nota1, nota2, nota3, nota4, total, media" type="Real" array="False" size=""/>
+            <input variable="nota1"/>
+            <input variable="nota2"/>
+            <input variable="nota3"/>
+            <input variable="nota4"/>
+            <assign variable="total" expression="nota1+nota2+nota3+nota4"/>
+            <output expression="&quot;A soma &#233;:&quot;" newline="False"/>
+            <output expression="total" newline="True"/>
+            <assign variable="media" expression="total/4"/>
+            <output expression="&quot;A m&#233;dia &#233;:&quot;" newline="False"/>
+            <output expression="media" newline="True"/>
+            <output expression="&quot;Situa&#231;&#227;o:&quot;" newline="False"/>
+            <if expression="media&gt;=6">
+                <then>
+                    <output expression="&quot;APROVADO&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;REPROVADO&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
