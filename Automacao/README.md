@@ -1,3 +1,3 @@
 # Automação ⚙️
 
-Repositório feito para estudar, revisar e armazenar automalções.
+Repositório feito para estudar, revisar e armazenar automações.
