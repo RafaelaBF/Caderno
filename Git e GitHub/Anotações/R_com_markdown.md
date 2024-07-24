@@ -34,3 +34,6 @@ summary(cars)
 R Markdown facilita a criação de relatórios reprodutíveis com R.
 
 > Quando você renderiza este documento (por exemplo, usando o RStudio), o código R é executado e o resultado é inserido no documento HTML gerado.
+
+## Documentação para explorar 🔍:
+[BookDown - R Markdown](https://bookdown.org/yihui/rmarkdown/html-document.html)
