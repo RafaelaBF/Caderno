@@ -4,7 +4,7 @@
 
 Aqui faço anotações de aprendizados que tive em cursos e livros separados em tópicos. Em geral tudo voltado a tecnologia.
 
-## Tópicos
+## 🔖 Tópicos
 
 - 💻 [Conceitos de Informática][6]
 - 🛡  [Segurança da Informação][1] 
@@ -18,9 +18,10 @@ Aqui faço anotações de aprendizados que tive em cursos e livros separados em 
 - 🅰️ [Angular + Express][10]🚂
 - 🐍 [Conceitos de Python][11]
 - ⚙️ [Automação][12]
+- 📊 [Power BI][13]
+- 🧠 [Ciência de dados][14]
 
 ##
-
 🚧 Repositório em andamento...
 
 [1]: https://github.com/RafaelaBF/Caderno/tree/main/Seguranca%20da%20Informacao
@@ -35,3 +36,5 @@ Aqui faço anotações de aprendizados que tive em cursos e livros separados em 
 [10]: https://github.com/RafaelaBF/Caderno/tree/main/Angular%2BExpress
 [11]: https://github.com/RafaelaBF/Caderno/tree/main/Python
 [12]: https://github.com/RafaelaBF/Caderno/tree/main/Automacao
+[13]: https://github.com/RafaelaBF/Caderno/tree/main/Power%BI
+[14]: https://github.com/RafaelaBF/Caderno/tree/main/Ciencia%de%dados
