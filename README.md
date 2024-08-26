@@ -7,8 +7,7 @@ Aqui faço anotações de aprendizados que tive em cursos e livros separados em 
 ## 🔖 Tópicos
 
 - 💻 [Conceitos de Informática][6]
-- 🛡  [Segurança da Informação][1] 
-- 📱 [Teste para android][2]
+- 🛡 [Segurança da Informação][1]
 - 🐙 [Git e GitHub][3]
 - 🎨 [Front-End][4]
 - ⚙️ [Gestão de projetos][5]
@@ -21,11 +20,39 @@ Aqui faço anotações de aprendizados que tive em cursos e livros separados em 
 - 📊 [Power BI][13]
 - 🧠 [Ciência de dados][14]
 
-##
-🚧 Repositório em andamento...
+<details>
+  <summary><a href="https://github.com/RafaelaBF/Caderno/tree/main/TestDrivenDevelopment"><b>✅&nbsp;TDD (Test Driven Development)</b></a></summary>
+
+🤖 **Testes para Android**
+- [Android Studio e os testes](TestDrivenDevelopment/TestesAndroid/AndroidStudioEOsTestes.md)
+  - O funcionamento dos teste no Android Studio
+- [Espresso](TestDrivenDevelopment/TestesAndroid/Espresso.md)
+  - Cria testes concisos, bonitos e confiáveis para a IU do Android
+
+🎲 **Testes de Banco**
+- [Regras de segurança de teste de unidade com o Firebase](TestDrivenDevelopment/TestesBanco/TesteRegraSegurançaFirebase.md)
+    - As regras de segurança do Firebase protegem os seus dados contra usuários mal-intencionados [...] podemos fazer varios teste de diversos cenarios para que o banco fique cada vez mais seguro
+
+</details>
+
+---
+
+> [!IMPORTANT]
+>
+> ## Nota sobre a Licença [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges)](./LICENSE)
+>
+> *Este projeto está disponível sob a **Licença MIT**, que permite o uso, cópia, modificação, fusão, publicação, distribuição, sublicenciamento e/ou venda do software, desde que o aviso de copyright acima e esta permissão sejam incluídos em todas as cópias ou partes substanciais do software.*
+>
+> *O software é fornecido "como está", sem garantia de qualquer tipo. Para mais detalhes, consulte a licença completa.*
+>
+> ***<p align="center">Copyright (c) 2024 Rafaela Bezerra de Figueiredo <a href="https://github.com/RafaelaBF"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/RafaelaBF" align="center" width="50"></a></p>***
+>
+
+---
+
+<p align="center">🚧 Repositório em andamento...</p>
 
 [1]: https://github.com/RafaelaBF/Caderno/tree/main/Seguranca%20da%20Informacao
-[2]: https://github.com/RafaelaBF/Caderno/tree/main/Testes%20no%20Android
 [3]: https://github.com/RafaelaBF/Caderno/tree/main/Git%20e%20GitHub
 [4]: https://github.com/RafaelaBF/Caderno/tree/main/Front-End
 [5]: https://github.com/RafaelaBF/Caderno/tree/main/Gestao%20de%20projetos

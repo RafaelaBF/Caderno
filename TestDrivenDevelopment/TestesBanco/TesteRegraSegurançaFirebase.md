@@ -35,7 +35,7 @@ Terminando isso as configurações iniciais estão prontas, agora é só abrir o
 
 > **Obs:** Essas configurações devem ser seguidas toda vez que um projeto novo está na sua máquina. Mesmo que o aquivo teste.js já esteja criado você deve seguir os passos para instalar os pacotes de confiruraçao, que não deve ser subidos para o git.
 > 
-> <img src="Img/ArquivoDeConfiguracaoTestJSRegraSeguranca.jpg" height="100">
+> <img src="../Img/ArquivoDeConfiguracaoTestJSRegraSeguranca.jpg" height="100">
 
 ## Run teste
 - Inicializar o Emulador `firebase emulators:start`

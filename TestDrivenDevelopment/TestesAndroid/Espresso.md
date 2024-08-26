@@ -3,17 +3,16 @@
 
 ## Sintaxe
 
-Código         | Definição
--------------  | ----------------------------------------------------------------
-onView()       | Pega um view
-withId()       | Acha um id
-perform()      | Executa uma ação
-typeText()     | Escreve um texto
-check()        | Checa algo
-matches()      | Corresponder a uma exibição usando diferentes atributos
-hasErrorText() | Se há uma mensagem de erro igual
-withText()     | Se o campo tem o texto igual
-
+| Código         | Definição                                               |
+|----------------|---------------------------------------------------------|
+| onView()       | Pega um view                                            |
+| withId()       | Acha um id                                              |
+| perform()      | Executa uma ação                                        |
+| typeText()     | Escreve um texto                                        |
+| check()        | Checa algo                                              |
+| matches()      | Corresponder a uma exibição usando diferentes atributos |
+| hasErrorText() | Se há uma mensagem de erro igual                        |
+| withText()     | Se o campo tem o texto igual                            |
 
 ### Exemplos
 ~~~ktk
