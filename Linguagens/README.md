@@ -12,6 +12,10 @@ Markdown é uma linguagem de marcação simples e leve usada para formatar texto
 ## [Kotlin][3]
 Kotlin é uma linguagem de programação moderna, estática e de tipagem forte, desenvolvida pela JetBrains. Ela é totalmente interoperável com Java, sendo amplamente usada para o desenvolvimento de aplicativos Android. Kotlin se destaca pela concisão, segurança e suporte a programação funcional, oferecendo recursos como null safety, lambdas, e corrotinas para programação assíncrona.
 
+## [Linguagens Formais e Autômatos][4]
+
+A disciplina **Linguagens Formais e Autômatos** é fundamental para estudantes de ciência da computação, introduzindo conceitos teóricos que formam a base da tecnologia moderna. Nela, são abordados:
+
 ---
 
 ### 💻 Desenvolvedora:
@@ -21,3 +25,4 @@ Kotlin é uma linguagem de programação moderna, estática e de tipagem forte, 
 [1]: Python
 [2]: Markdown
 [3]: Kotlin
+[4]: Linguagens%20Formais%20e%20Autômatos
