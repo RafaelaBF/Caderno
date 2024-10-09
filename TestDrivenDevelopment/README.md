@@ -64,21 +64,7 @@ A base do TDD são os testes unitários, validando a menor parte do código. Por
   <img src="Img/TesteUnitarioConceito1.png" width="290"> <img src="Img/TesteUnitarioConceito2.png" width="280">
 </p>
 
----
 
-> [!IMPORTANT]
->
-> ## Nota sobre a Licença [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges)](./LICENSE)
->
-> *Este projeto está disponível sob a **Licença MIT**, que permite o uso, cópia, modificação, fusão, publicação, distribuição, sublicenciamento e/ou venda do software, desde que o aviso de copyright acima e esta permissão sejam incluídos em todas as cópias ou partes substanciais do software.*
->
-> *O software é fornecido "como está", sem garantia de qualquer tipo. Para mais detalhes, consulte a licença completa.*
->
-> ***<p align="center">Copyright (c) 2024 Rafaela Bezerra de Figueiredo <a href="https://github.com/RafaelaBF"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/RafaelaBF" align="center" width="50"></a></p>***
->
 
----
-
-<p align="center">🚧 Repositório em andamento...</p>
 
 [1]: https://www.youtube.com/watch?v=bLdEypr2e-8

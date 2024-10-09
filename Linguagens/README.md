@@ -9,6 +9,9 @@ Python é uma linguagem de programação de alto nível, interpretada e orientad
 ## [Markdown][2]
 Markdown é uma linguagem de marcação simples e leve usada para formatar texto na web. Ela permite que você escreva usando uma sintaxe de texto simples que pode ser facilmente convertida para HTML. Com o Markdown, você pode criar títulos, listas, links, imagens e muito mais, tornando-o uma excelente ferramenta para escrever documentação, README em repositórios GitHub, blogs e anotações.
 
+## [Kotlin][3]
+Kotlin é uma linguagem de programação moderna, estática e de tipagem forte, desenvolvida pela JetBrains. Ela é totalmente interoperável com Java, sendo amplamente usada para o desenvolvimento de aplicativos Android. Kotlin se destaca pela concisão, segurança e suporte a programação funcional, oferecendo recursos como null safety, lambdas, e corrotinas para programação assíncrona.
+
 ---
 
 ### 💻 Desenvolvedora:
@@ -17,3 +20,4 @@ Markdown é uma linguagem de marcação simples e leve usada para formatar texto
 
 [1]: Python
 [2]: Markdown
+[3]: Kotlin
