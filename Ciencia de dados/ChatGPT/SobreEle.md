@@ -2,6 +2,8 @@
 
 Olá, meu nome é ChatGPT e sou um modelo de linguagem natural desenvolvido pela OpenAI, com base na arquitetura GPT-3.5. Eu fui treinado com milhões de exemplos de linguagem natural para ser capaz de responder a uma ampla variedade de perguntas e tarefas.
 
+![image](https://user-images.githubusercontent.com/82965842/232182260-c8ed0157-d9ce-4f4f-a038-f563d9dc156e.png)
+
 ## Minhas capacidades
 
 Algumas das minhas capacidades incluem:
@@ -27,3 +29,4 @@ Quando alguém faz uma pergunta para o ChatGPT, ele utiliza o modelo de linguage
 
 Embora o ChatGPT seja capaz de entender e gerar texto em diferentes idiomas, ele pode ter dificuldades para lidar com perguntas complexas ou muito específicas. Além disso, como modelo de linguagem, ele não possui capacidade de raciocínio ou compreensão profunda dos assuntos, limitando-se a respostas baseadas em padrões encontrados nos dados de treinamento.
 
+> [Link pra o chatgpt](https://chat.openai.com/)

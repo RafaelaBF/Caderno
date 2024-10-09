@@ -1,41 +1,45 @@
-<img src="Img/cadernoGifGarota.gif" alt="Caderno e Garota Imagem" width="180" align="right">
+<img src="DirectoryImagens/cadernoGifGarota.gif" alt="Caderno e Garota Imagem" width="180" align="right">
 
 # Caderno 📚
 
 Aqui faço anotações de aprendizados que tive em cursos e livros separados em tópicos. Em geral tudo voltado a tecnologia.
 
-## 🔖 Tópicos
+## 🧠 [Ciência de dados][1]
+<img src="https://cdn-icons-png.flaticon.com/512/1998/1998542.png" alt="Ciência de dados" width="70" align="right">
 
-- 💻 [Conceitos de Informática][6]
-- 🛡 [Segurança da Informação][1]
-- 🐙 [Git e GitHub][3]
-- 🎨 [Front-End][4]
-- ⚙️ [Gestão de projetos][5]
-- 🐧 [Linux][8]
-- 🐘 [PHP][7]
-- 🤖 [ChatGPT][9]
-- 🅰️ [Angular + Express][10]🚂
-- 🐍 [Conceitos de Python][11]
-- ⚙️ [Automação][12]
-- 📊 [Power BI][13]
-- 🧠 [Ciência de dados][14]
+Ciência de dados é uma área interdisciplinar que utiliza métodos científicos, processos, algoritmos e sistemas para extrair conhecimento e insights a partir de dados estruturados e não estruturados. Envolve técnicas de machine learning, estatística, mineração de dados, entre outras.
 
-<details>
-  <summary><a href="https://github.com/RafaelaBF/Caderno/tree/main/TestDrivenDevelopment"><b>✅&nbsp;TDD (Test Driven Development)</b></a></summary>
+## 🖥️ [Conceitos de Informática][2]
+<img src="https://cdn-icons-png.flaticon.com/512/2254/2254272.png" alt="Conceitos de Informática" width="70" align="right">
 
-🤖 **Testes para Android**
-- [Android Studio e os testes](TestDrivenDevelopment/TestesAndroid/AndroidStudioEOsTestes.md)
-  - O funcionamento dos teste no Android Studio
-- [Espresso](TestDrivenDevelopment/TestesAndroid/Espresso.md)
-  - Cria testes concisos, bonitos e confiáveis para a IU do Android
+A informática estuda o tratamento automático da informação por meio de computadores, englobando hardware, software, redes, e algoritmos. Os principais conceitos envolvem estrutura de dados, programação, e arquitetura de sistemas.
 
-🎲 **Testes de Banco**
-- [Regras de segurança de teste de unidade com o Firebase](TestDrivenDevelopment/TestesBanco/TesteRegraSegurançaFirebase.md)
-    - As regras de segurança do Firebase protegem os seus dados contra usuários mal-intencionados [...] podemos fazer varios teste de diversos cenarios para que o banco fique cada vez mais seguro
+## 🌐 [Desenvolvimento Web][4]
+<img src="https://static.vecteezy.com/system/resources/previews/036/004/783/non_2x/website-logo-searching-illustration-free-png.png" alt="Imagem representando a web" width="70" align="right">
 
-</details>
+Desenvolvimento web abrange a construção de websites e aplicações web, utilizando tecnologias como HTML, CSS, JavaScript, frameworks (Angular, React, Vue.js) e bancos de dados. Inclui tanto o front-end quanto o back-end.
+
+## 📝 [Linguagens][5]
+<img src="https://cdn-icons-png.flaticon.com/512/6214/6214248.png" alt="Linguagens" width="70" align="right">
+
+Linguagens de programação são ferramentas usadas para escrever algoritmos e comandos que um computador pode executar. Alguns exemplos incluem Python, Java, Kotlin, e JavaScript, cada uma com seu propósito e especificidades.
+
+## 🔒 [Segurança da Informação][6]
+<img src="https://i0.wp.com/dsmsolutions.com.br/wp-content/uploads/2021/06/encrypted-1.png?resize=256%2C256&ssl=1" alt="Segurança da Informação" width="70" align="right">
+
+Segurança da informação visa proteger dados e sistemas de acessos não autorizados, garantindo confidencialidade, integridade e disponibilidade. Técnicas incluem criptografia, firewalls, VPNs, e autenticação multifator.
+
+## 💻 [Sistemas Operacionais][7]
+<img src="https://cdn-icons-png.flaticon.com/512/2172/2172875.png" alt="Sistemas Operacionais" width="60" align="right">
+
+Sistemas operacionais são softwares que gerenciam o hardware do computador e fornecem serviços para os programas de aplicação. Exemplos incluem Windows, macOS, Linux, e Android. São responsáveis pelo gerenciamento de memória, processos, dispositivos de entrada e saída, e muito mais.
 
 ---
+
+### 💻 Desenvolvedora:
+
+- 👩🏻‍💻 RAFAELA BEZERRA DE FIGUEIREDO. <a href="https://github.com/RafaelaBF"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/RafaelaBF" width="50"></a>
+
 
 > [!IMPORTANT]
 >
@@ -45,23 +49,16 @@ Aqui faço anotações de aprendizados que tive em cursos e livros separados em 
 >
 > *O software é fornecido "como está", sem garantia de qualquer tipo. Para mais detalhes, consulte a licença completa.*
 >
-> ***<p align="center">Copyright (c) 2024 Rafaela Bezerra de Figueiredo <a href="https://github.com/RafaelaBF"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/RafaelaBF" align="center" width="50"></a></p>***
+> ***<p align="center">Copyright (c) 2024 Rafaela Bezerra de Figueiredo</p>***
 >
-
 ---
 
 <p align="center">🚧 Repositório em andamento...</p>
 
-[1]: https://github.com/RafaelaBF/Caderno/tree/main/Seguranca%20da%20Informacao
-[3]: https://github.com/RafaelaBF/Caderno/tree/main/Git%20e%20GitHub
-[4]: https://github.com/RafaelaBF/Caderno/tree/main/Front-End
-[5]: https://github.com/RafaelaBF/Caderno/tree/main/Gestao%20de%20projetos
-[6]: https://github.com/RafaelaBF/Caderno/tree/main/Conceitos%20de%20Inform%C3%A1tica
-[7]: https://github.com/RafaelaBF/Caderno/tree/main/PHP
-[8]: https://github.com/RafaelaBF/Caderno/tree/main/Linux
-[9]: https://github.com/RafaelaBF/Caderno/tree/main/ChatGPT
-[10]: https://github.com/RafaelaBF/Caderno/tree/main/Angular%2BExpress
-[11]: https://github.com/RafaelaBF/Caderno/tree/main/Python
-[12]: https://github.com/RafaelaBF/Caderno/tree/main/Automacao
-[13]: https://github.com/RafaelaBF/Caderno/tree/main/Power%BI
-[14]: https://github.com/RafaelaBF/Caderno/tree/main/Ciencia%de%dados
+[1]: Ciencia%20de%20dados
+[2]: Conceitos%20de%20Informática
+[4]: Desenvolvimento%20Web
+[5]: Linguagens
+[6]: Seguranca%20da%20Informacao
+[7]: Sistema%20Operacionais
+
