@@ -1,4 +1,4 @@
-# Introdução ao React Native
+# Introdução ao React Native ⚛️📱
 
 React Native é um framework de desenvolvimento de aplicativos móveis criado pelo Facebook, que permite construir aplicações para iOS e Android utilizando JavaScript e React. A principal proposta do React Native é permitir o desenvolvimento multiplataforma com uma única base de código, aproveitando o conhecimento prévio de desenvolvedores web em React.
 
@@ -6,11 +6,13 @@ React Native é um framework de desenvolvimento de aplicativos móveis criado pe
 
 > **Hot Reloading**: Uma funcionalidade que permite visualizar alterações no código em tempo real, sem precisar recompilar o aplicativo completamente, acelerando o processo de desenvolvimento.
 
-## Index
-- [Estrutura e Arquitetura](ReactNative/EstruturaArquitetura.md)
-- [Super App](ReactNative/SuperApp.md)
-- [Configuração do Ambiente de Desenvolvimento](ReactNative/ConfiguracaoAmbiente.md)
-- [Projetos em React Native](ReactNative/LinksProjetosExemplo.md)
+*Link para documentação [reactnative.dev](https://reactnative.dev/docs/getting-started)*
+
+## Index 📚
+- [Estrutura e Arquitetura](EstruturaArquitetura.md)
+- [Super App](SuperApp.md)
+- [Configuração do Ambiente de Desenvolvimento](ConfiguracaoAmbiente.md)
+- [Projetos em React Native](LinksProjetosExemplo.md)
 
 ## React Native vs Desenvolvimento Nativo 
 
